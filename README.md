@@ -8,6 +8,7 @@
 - 📫 How to reach me: [tanmaym06@proton.me](mailto:tanmaym06@proton.me)
 - 💻 Ask me about **Linux**, **Low-level programming**, **Cybersecurity**
 - 🏗️ All my projects are available at [**GitHub Profile**](https://github.com/LilSuperUser)
+- 🚩 Here's my picoCTF account [**picoCTF Profile**](https://play.picoctf.org/users/LilSuperUser)
 - ⚡ Fun fact: I’m a huge fan of solving low-level problems!
 
 ---
