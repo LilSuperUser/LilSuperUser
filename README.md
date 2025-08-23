@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Tanmay</h1>
-<h3 align="center">An aspiring security engineer from India</h3>
+<h1 align="center">Holaa, I'm Tanmay</h1>
 
 <h3 align="left">About Me:</h3>
 
-- 🧠 I’m currently working on [**x86_64 ASM Tutorials**](https://github.com/LilSuperUser/x86_64-asm-tutorials)
-- 🌱 I’m currently learning **C++** and diving into **low-level programming**
-- 📫 How to reach me: [tanmaym06@proton.me](mailto:tanmaym06@proton.me)
-- 💻 Ask me about **Linux**, **Low-level programming**, **Cybersecurity**
-- 🏗️ All my projects are available at [**GitHub Profile**](https://github.com/LilSuperUser)
-- 🚩 Here's my picoCTF account [**picoCTF Profile**](https://play.picoctf.org/users/LilSuperUser)
-- ⚡ Fun fact: I’m a huge fan of solving low-level problems!
+- I’m currently learning **rust** and diving into **low-level programming** & **exploit development**
+- I love to work on **low-level systems** & **develop exploits**
+- Here's my picoCTF account [**picoCTF Profile**](https://play.picoctf.org/users/LilSuperUser)
+- How to reach me: [tanmaym06@proton.me](mailto:tanmaym06@proton.me)
 
 ---
 
