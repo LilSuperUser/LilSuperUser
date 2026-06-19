@@ -10,6 +10,15 @@
 - Here's my **picoCTF** account [**picoCTF Profile**](https://play.picoctf.org/users/LilSuperUser)
 - How to reach me: [tanmaym06@proton.me](mailto:tanmaym06@proton.me)
 
+**OpenPGP**
+
+Fingerprint:
+```
+17CF 5BCB 6B3D 6D48 FFAD CB39 F0C8 88CD 6E1E 9D13
+```
+
+Public key: [LilSuperUser_0xF0C888CD6E1E9D13_public.asc](./LilSuperUser_0xF0C888CD6E1E9D13_public.asc)
+
 ---
 
 <h3 align="left">Tech Stack:</h2>
@@ -73,3 +82,4 @@
 
 <h3 align="center">Thank you for visiting my profile!</h3>
 <p align="center">I appreciate your support and feedback!</p>
+
