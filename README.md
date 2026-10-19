@@ -7,7 +7,7 @@
 - I’m also interested in **cyber security**, particularly **binary expliotation** and **reverse engineering**.
 - Find **dotfiles** for my linux system [here](https://github.com/LilSuperUser/dotfiles)
 - Find me on **OSM** mapping wherever/whatever I can [here](https://www.openstreetmap.org/user/LilSuperUser) (**quite new to this**)
-- Here's my **picoCTF** account [**picoCTF Profile**](https://play.picoctf.org/users/LilSuperUser)
+- Here's my **picoCTF/CyLab** account [**LilSuperUser**](https://learn.cylabacademy.org/users/LilSuperUser)
 - How to reach me: [tanmaym06@proton.me](mailto:tanmaym06@proton.me)
 
 **OpenPGP**
